@@ -55,15 +55,23 @@ margin-top: 15px;
 }
 
 .header-links{
-    margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 40px;  
 }
 
-.links-btn{
-    margin-left: 25px;
+.header-links a{
     color: #FFE071;
     text-decoration: none;
 }
+
+.header-links a+a{
+    margin-left: 25px;
+}
+
+/* .links-btn{
+    margin-left: 25px;
+    color: #FFE071;
+    text-decoration: none;
+} */
 
 
 .main{
@@ -78,14 +86,12 @@ margin-top: 15px;
 }
 
 .footer {
-    text-align: center
-}
-
-.footer-text {
+    text-align: center;
     color: #A3ABB2;
     padding: 51px 0 51px;
     font-weight: 500
 }
+
 
 .section1 {
     padding: 25px 0 50px;
