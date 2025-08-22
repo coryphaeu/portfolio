@@ -68,6 +68,7 @@ margin-top: 15px;
 
 .main{
     text-align: center;
+    padding: 25px;
 }
 
 .main-title{
@@ -84,4 +85,13 @@ margin-top: 15px;
     color: #A3ABB2;
     padding: 51px 0 51px;
     font-weight: 500
+}
+
+.section1 {
+    padding: 25px 0 50px;
+    background: #FFE071;
+}
+
+.section {
+    padding: 25px 0 50px;
 }
