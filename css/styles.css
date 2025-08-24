@@ -28,7 +28,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	gap: 20px;
+	gap: 40px;
 	margin-top: 85px;
 }
 
@@ -136,6 +136,11 @@ body {
 	font-size: 22px;
 	width: 290px;
 	font-weight: 500;
+}
+
+.header-links a+a {
+	color: #A3ABB2;
+    background: #171F26
 }
 
 .header-links a:hover {
